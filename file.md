@@ -1,8 +1,9 @@
 # Hello mir
-<<<<<<< HEAD
-test
-test2
-=======
 
-test branch
->>>>>>> task-1
+
+
+
+
+
+task-2 branch
+
