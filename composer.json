@@ -1,0 +1,23 @@
+{
+	"name": "composer_course/prskelet",
+	"description": "Skeleton for composer course",
+	"authors": [
+		{
+			"name": "Eugene Shalko",
+			"email": "eugene.shalko.00@gmail.com"
+		}
+	],
+	"repositories": [
+		{
+			"type": "composer",
+			"url": "https://wpackagist.org"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.8",
+		"ext-pdo": "*",
+		"php": "7.*",
+		"johnpbloch/wordpress": "^5.5"
+	}
+}
+
